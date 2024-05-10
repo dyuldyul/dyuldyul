@@ -1,4 +1,6 @@
 ### Hi there 👋
+### Hello
+### <img src = "https://www.gamevu.co.kr/news/photo/202211/25070_64582_354.JPG">
 
 <!--
 **dyuldyul/dyuldyul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
